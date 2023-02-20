@@ -1,6 +1,6 @@
 # Virusmon
-
-open cmd, cd to project folder
+-----
+# to start open cmd, cd to project folder
 # run "npm install" in project folder
 # then do "npm run dev"  in project folder
->>>>>>> fb364b86a580cc661ea4d72557fcf69e9956f066
+
