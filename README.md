@@ -1,5 +1,5 @@
 # Virusmon
-Web game inspired by Pokemon that leverages the Virustotal API to detect suspicious files/hashes.
+Collaborated with a team of four to create a web game inspired by Pokemon that leverages the Virustotal API to detect suspicious files/hashes.
 
 # To Start:
 Open cmd, move to the project folder\
